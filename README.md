@@ -21,6 +21,8 @@ I translate business requirements into system models, API contracts, database st
 - Defining API contracts, request and response structures, validation rules, and backend behavior.
 - Designing database structures, relationships, indexes, and SQL-based analysis flows.
 - Producing technical documentation that developers can use directly during implementation.
+- Managing user stories, acceptance criteria, backlog items, and issue tracking with BA/product tools.
+- Validating API behavior and integration flows with focused testing tools.
 - Supporting backend and full-stack delivery with engineering-level understanding of system behavior.
 
 ---
@@ -36,6 +38,21 @@ I translate business requirements into system models, API contracts, database st
 ![User Stories](https://img.shields.io/badge/User%20Stories-111827?style=for-the-badge)
 ![UML](https://img.shields.io/badge/UML-1F2937?style=for-the-badge)
 ![BPMN](https://img.shields.io/badge/BPMN-0D1117?style=for-the-badge)
+
+### BA & Product Tools
+
+![Jira](https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=jira&logoColor=0052CC)
+![Confluence](https://img.shields.io/badge/Confluence-111827?style=for-the-badge&logo=confluence&logoColor=172B4D)
+![Miro](https://img.shields.io/badge/Miro-1F2937?style=for-the-badge&logo=miro&logoColor=FFD02F)
+![draw.io](https://img.shields.io/badge/draw.io-0D1117?style=for-the-badge&logo=diagramsdotnet&logoColor=F08705)
+![Figma](https://img.shields.io/badge/Figma-111827?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Notion](https://img.shields.io/badge/Notion-1F2937?style=for-the-badge&logo=notion&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+
+### Testing
+
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Swagger](https://img.shields.io/badge/Swagger-111827?style=for-the-badge&logo=swagger&logoColor=85EA2D)
 
 ### Languages
 
@@ -103,8 +120,11 @@ My technical documentation usually covers:
 - Use cases
 - User stories
 - API contracts
+- Swagger/OpenAPI documentation
 - ERD and database design
 - Architecture decisions
+- Jira backlog and acceptance criteria
+- Postman API validation notes
 - Risks and trade-offs
 
 ---
