@@ -108,17 +108,6 @@ My technical documentation usually covers:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![NicolaiHong's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolaiHong&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicolaiHong&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
 
 ## Contact
 
