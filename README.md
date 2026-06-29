@@ -6,8 +6,9 @@
 
 I translate business requirements into system models, API contracts, database structures, and maintainable backend solutions. My work connects requirement analysis, workflow design, business rules, database design, and backend implementation so product decisions can move cleanly into engineering execution.
 
-[![Email](https://img.shields.io/badge/Email-hongkhoa34%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hongkhoa348@gmail.com)
+[![Email](https://img.shields.io/badge/Email-hongkhoa34%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hongkhoa34@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-NicolaiHong-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NicolaiHong)
+
 
 </div>
 
