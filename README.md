@@ -2,7 +2,7 @@
 
 # NicolaiHong
 
-### Technical Business Analyst | Backend-focused System Analyst | Full-stack Developer
+### Technical Business Analyst
 
 I translate business requirements into system models, API contracts, database structures, and maintainable backend solutions. My work connects requirement analysis, workflow design, business rules, database design, and backend implementation so product decisions can move cleanly into engineering execution.
 
